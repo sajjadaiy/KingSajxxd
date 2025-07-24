@@ -1,7 +1,7 @@
 ## 💫 About Me:
 
 🔭 **I’m currently working on:**
-- A personal **Workspace for Project Ideas** - A centralized platform where I can capture, organize, and expand on ideas for apps, tools, and experiments I want to build.
+- PathHelm - An AI-powered API Gateway - A developer-focused gateway that handles rate limiting, routing, API key auth, and real-time traffic logging. It also integrates optional ML-based traffic analysis to detect anomalies and usage patterns. Built for devs who need control without enterprise bloat.
 
 🌱 **I’m currently learning:**
 - **Machine Learning** - Exploring data-driven decision making and predictive models
