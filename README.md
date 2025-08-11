@@ -1,31 +1,75 @@
-**Currently working on:**
-- PathHelm - An AI-powered API Gateway - A developer-focused gateway that handles rate limiting, routing, API key auth, and real-time traffic logging. It also integrates optional ML-based traffic analysis to detect anomalies and usage patterns. Built for devs who need control without enterprise bloat.
+<p align="center">
+  <a href="https://github.com/KingSajxxd">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2D52FF&center=true&width=435&lines=Sajjad+Aiyoob" alt="Typing SVG" />
+  </a>
+</p>
 
-**Currently learning:**
-- **Machine Learning** - Exploring data-driven decision making and predictive models
-- **DevOps Technologies** - CI/CD, containerization, and automation tools
-- **APIs & Backend Development** - Building and consuming robust APIs using modern stacks
-- **React & Frontend Frameworks** - Crafting dynamic and responsive UIs
-- **AI & Automation** - Integrating intelligent features into everyday tools
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&colors=2D52FF,6A5ACD,FFB347&center=true&width=500&repeat=true&cursor=true&lines=Software+Engineering+Student;Building+Solutions+That+Matter" alt="Typing SVG" />
+  </a>
+</p>
 
-**Philosophy:**
-- The best way to learn is by **building things I wish already existed**. If it solves a problem for me, chances are it could help someone else too.
+## 🚀 About Me
+<p align="left">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnA5Z2piM292cm9kNm5jdDF2ZjRhbDJ4a3lyZjZuYnN0NGJnMW5hOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AEDD6xjlOxNMgFsUmA/giphy.gif" align="right" width="140" alt="F1 Car Animation" />
 
-**Fun fact:**
-- If something intrigues me, I’ll prototype it... even if it's 2AM.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sajjad-Aiyoob) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/KingSajxxd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sajaiyoobofficial@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KingSajxxd&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KingSajxxd&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KingSajxxd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  I am a Software Engineering student passionate about discovering, learning, and experimenting with new technologies. I constantly strive to expand my skills by applying knowledge to challenging projects.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KingSajxxd&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Currently Working On
+- **PathHelm** - An AI-powered API Gateway for developers that handles rate limiting, routing, API key authentication, and real-time traffic logging. It includes optional ML-based traffic analysis to detect anomalies and usage patterns. Built for devs who want control without enterprise bloat.
+
+## 📚 Learning
+- **Machine Learning** - Exploring data-driven decision making and predictive models  
+- **DevOps Technologies** - CI/CD, containerization, and automation tools  
+- **APIs & Backend Development** - Building and consuming robust APIs with modern stacks  
+- **React & Frontend Frameworks** - Crafting dynamic and responsive UIs  
+- **AI & Automation** - Integrating intelligent features into everyday tools  
+
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages  
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,python,c&perline=5)](https://skillicons.dev)
+
+### Front-End  
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript&perline=3)](https://skillicons.dev)
+
+### Back-End & Databases  
+[![My Skills](https://skillicons.dev/icons?i=fastapi,mongo,mysql,redis,postgres,apache&perline=5)](https://skillicons.dev)
+
+### Tools & DevOps  
+[![My Skills](https://skillicons.dev/icons?i=git,docker,postman,kubernetes,jenkins,&perline=6)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=KingSajxxd&locale=en&hide_title=false&hide=html,css&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" alt="Top Languages" />
+  &nbsp;
+  <img height="150" src="https://nirzak-streak-stats.vercel.app/?user=KingSajxxd&theme=dark&hide_border=true" alt="GitHub Streak" />
+  &nbsp;
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=KingSajxxd&theme=dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📫 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/Sajjad-Aiyoob">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sajaiyoobofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
