@@ -4,6 +4,10 @@
   Turning code into impact, building solutions that matter.
 </p>
 
+<p align="center">
+   <b>Developer to Developer: Check out my TUI based portfolio</b> <br>
+  Run: <code>ssh sajjad.tech</code> in your terminal
+</p>
 
 <br>
 
