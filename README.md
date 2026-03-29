@@ -17,15 +17,16 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,kubernetes,jenkins,nginx,aws,vercel,netlify,js,ts,python,java,react,nextjs,vite,tailwind,flutter,nodejs,express,fastapi,flask,django,mongo,mysql,postgres,redis,supabase,firebase,postman,vscode&perline=15" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,gitlab,docker,kubernetes,jenkins,nginx,aws,gcp,vercel,netlify,js,ts,python,java,react,nextjs,vite,tailwind,flutter,nodejs,express,fastapi,flask,django,mongo,mysql,postgres,redis,supabase,firebase,kafka,prometheus,grafana,postman,vscode&perline=15" alt="Tech Stack" />
   </a>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_Code-6B46C1?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 <br>
